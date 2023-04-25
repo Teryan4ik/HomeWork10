@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1584d5b2-c00a-42f4-8700-0fcf1e8b2541" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/Income.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IncomeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task2/Reverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task2/ReverserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     "last_opened_file_path": "D:/Андрей/Программирование/!JAVA/Hilel/JavaPro/HomeWork/HomeWork8"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ReverserTest">
     <configuration name="IncomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork10" />
       <option name="PACKAGE_NAME" value="task1" />
@@ -60,8 +58,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task2" />
+      <option name="MAIN_CLASS_NAME" value="task2.ReverserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReverserTest" />
         <item itemvalue="JUnit.IncomeTest" />
       </list>
     </recent_temporary>
@@ -75,6 +89,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682447052288</updated>
     </task>
+    <task id="LOCAL-00001" summary="complete task 1">
+      <created>1682448965358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682448965358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete task 1" />
   </component>
 </project>
